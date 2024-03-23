@@ -25,8 +25,8 @@ LCD_BED_TRAMMING
 BED_TRAMMING_INSET_LFRB { 30, 30, 30, 30 }  
 BED_TRAMMING_LEVELING_ORDER { LF, RF, RB, LB }  
    *  LB --------- RB   
-   *  |  4       3  |   
-   *  |             |   
-   *  |  1       2  |   
-   *  LF --------- RF  
+   *  |--4_______3--|   
+   *  |_____________|   
+   *  |--1_______2--|   
+   *  LF-----------RF  
 #define EEPROM_SETTINGS  
