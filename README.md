@@ -1,10 +1,11 @@
 This is a FW for Creality Mainboard 4.2.2
 ____
-STM32F103RET6_creality was renamed STM32F103RE_creality.
+STM32F103RET6_creality was renamed STM32F103RE_creality.  
 This error is there specifically to tell you STM32F103RET6_creality is no longer a valid option.
 ____
 Установленные заачения в прошивке:  
 ____  
+Меню на русском языке (Russian Language Menu)  
 Drivers A4988  
 Chip STM32F103RET6  
 No BLTouch  
